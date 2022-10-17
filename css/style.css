@@ -1,0 +1,18 @@
+.bglogo{
+        background-color: blue
+        
+
+}
+.bg2{
+        background-image: url("../img/pattern.png");
+        background-repeat: repeat;
+        background-size: auto;
+        height: auto;
+
+}
+
+.thebooleaner{
+        background-size: 30px;
+        width: 150px;
+        margin-top: 50px;
+}
