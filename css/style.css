@@ -47,3 +47,58 @@
 
 
 }
+.p-10{
+        padding-inline-start: 10px;
+
+
+}
+.col25{
+        width: 25%;
+        text-align: left;
+
+
+
+}
+
+.col50{
+        width: 50%;
+        text-align: left;
+
+}
+.colourceleste{
+        background-color: rgb(0, 110, 255);
+
+
+}
+
+.colourblue{
+        background-color: aqua;
+
+
+}
+.displayblock{
+        display:block
+        
+
+
+}
+.ultimaimmagine{
+        background-image:url("../img/monitor.jpg");
+        
+
+}
+
+.ultimaimmagine2{
+        background-image:url("../img/graph.jpg");
+
+        
+}
+.ultimaimmagine3{
+        background-size: cover;
+        width: 300px;
+        height: 300px;
+        color: white;
+font-size: 20px;
+padding-left: 10px;
+
+}
